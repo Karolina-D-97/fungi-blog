@@ -19,6 +19,6 @@ In order to use this project, you need to enter your email and email password in
 ---
 + run the app
 + enter your details (email, password) in main.py
-+ you can create your own posts using API on npoint, all you need to do is create your own JSON bin with https://www.npoint.io/ , the endpoint shoul be formatted something like this: https://www.npoint.io/docs/965a93bbc326c42d8c9e
++ you can create your own posts using API on npoint, all you need to do is create your own JSON bin with https://www.npoint.io/, the endpoint shoul be formatted something like this: https://www.npoint.io/docs/965a93bbc326c42d8c9e
 ---
-![FungiBlog](./readme_images/fungi_blog.mp4)
+![FungiBlog](./readme_images/fungi_blog.gif)
